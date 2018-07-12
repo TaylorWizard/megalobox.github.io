@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "前端资料"
+date:   2018-7-12 17:28:33 +0800
+categories: front-end-development
+tags: front-end-material
+---
+
+文章收集整理了ES6使用中的实用技巧。
+
+### 扩展运算符
+  #### 数组
+  - 数组赋值
+    ```
+    const [a, b, ...rest] = [1, 2, 3, 4] // a: 1, b: 2, rest: [3, 4]
+    ```
+  - 数组拷贝
+    ```
+    const arr = [...oldArr]
+    ```
+  - 数组拼接
+    ```
+    const one = ['a', 'b', 'c']
+    const two = ['e', 'f', 'g']
+    const result = [...one, ...two, 'lan'] // result: ['a', 'b', 'c', 'e', 'f', 'g', 'lan']
+    ```
+  #### 对象
+  - 对象赋值
+    ```
+    const { e, f, ...others } = {
+      e: 1,
+      f: 2,
+      g: 3,
+      h: 4
+    } // e: 1, f: 2, others: { g: 2, h: 4}
+    ```
+  - 对象拷贝（注：此方法不能够拷贝对象中的对象）
+    ```
+    const obj = {...oldObj}
+    ```
+  #### 替代函数中的arguments
+  - 替代函数中的arguments
+  ```
+    function getArguments(...args) {
+      return args
+    }
+    const result = getArguments(1, 2, 3, 4, 5, 6) // result: [1, 2, 3, 4, 5, 6]
+  ```
+
+    
+
+
