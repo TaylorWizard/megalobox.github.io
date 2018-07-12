@@ -24,7 +24,7 @@ tags: front-end-material
     const two = ['e', 'f', 'g']
     const result = [...one, ...two, 'lan'] // result: ['a', 'b', 'c', 'e', 'f', 'g', 'lan']
     ```
-#### 对象
+ #### 对象
   - 对象赋值
     ```
     const { e, f, ...others } = {
