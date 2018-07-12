@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "前端资料"
+title:  "ES6实用技能"
 date:   2018-7-12 17:28:33 +0800
 categories: front-end-development
 tags: front-end-material
@@ -9,7 +9,7 @@ tags: front-end-material
 文章收集整理了ES6使用中的实用技巧。
 
 ### 扩展运算符
-  #### 数组
+#### 数组
   - 数组赋值
     ```
     const [a, b, ...rest] = [1, 2, 3, 4] // a: 1, b: 2, rest: [3, 4]
@@ -24,7 +24,7 @@ tags: front-end-material
     const two = ['e', 'f', 'g']
     const result = [...one, ...two, 'lan'] // result: ['a', 'b', 'c', 'e', 'f', 'g', 'lan']
     ```
-  #### 对象
+#### 对象
   - 对象赋值
     ```
     const { e, f, ...others } = {
@@ -38,7 +38,7 @@ tags: front-end-material
     ```
     const obj = {...oldObj}
     ```
-  #### 替代函数中的arguments
+#### 替代函数中的arguments
   - 替代函数中的arguments
   ```
     function getArguments(...args) {
