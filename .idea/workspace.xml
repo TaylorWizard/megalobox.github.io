@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45971f25-e9a4-4b32-89fc-94becb0e11cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/README.en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/README.en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/lib/fastclick/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/lib/fastclick/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/lib/jquery_lazyload/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/lib/jquery_lazyload/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/atom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/category/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/front-end-development/2018/07/06/web前端资料整理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/front-end-development/2018/07/06/web前端资料整理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2018/03/22/文章测试/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2018/03/22/文章测试/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tag/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tag/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="45971f25-e9a4-4b32-89fc-94becb0e11cd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -75,7 +60,6 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1920" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -146,25 +130,26 @@
       <updated>1531383856616</updated>
       <workItem from="1531383857815" duration="460000" />
       <workItem from="1531384474278" duration="57000" />
+      <workItem from="1531446236932" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517000" />
+    <option name="totallyTimeSpent" value="533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -181,6 +166,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-22-文章测试.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">

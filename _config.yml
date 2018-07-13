@@ -635,6 +635,7 @@ canvas_sphere: false
 # Canvas-ribbon
 canvas_ribbon: false
 
+
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
 # For example
