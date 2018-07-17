@@ -49,6 +49,20 @@ tags: front-end-material
     const result = getArguments(1, 2, 3, 4, 5, 6) // result: [1, 2, 3, 4, 5, 6]
   ```
 
+### 累加器
+  - 作用：累加数组中的值
+  - 参数：
+    - accumulator：累加器（当前总的累加数值）
+    - currentValue：当前在数组中遍历到的值
+    - currentIndex：数组的索引
+    - array：当前遍历的整个数组
+    - initial：累加器的初始值
+  ```
+    const arr = [0, 1, 2, 3, 4]
+    const res = arr.reduce((accumulator, currentValue, currentIndex, array) => {
+      return accumulator + currentValue
+    }, initial) // res: 20
+  ```
     
 
 

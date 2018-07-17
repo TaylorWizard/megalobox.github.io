@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "this指针"
+date:   2018-7-17 21:28:33 +0800
+categories: front-end-development
+tags: front-end-material
+---
+
+this指针相关
+
+### 函数中的this指针
+#### 普通函数中的this指针
+- this在非严格模式下为全局对象（浏览器中为windows对象）
+```
+function test() {
+  console.log(this) // windows
+}
+```
+- this在严格模式下为undefined
+```
+'use strict'
+function test() {
+  console.log(this) // undefined
+}
+```
+
+#### 构造函数中的this指针
+- this指向新创建的实例
+```
+function New() { // 模拟new
+  var obj = {};
+  obj.__proto__ = Person.prototype;
+  var res = Person.apply(obj, arguments); // 这一步，将Person构造函数的this
+                                             指针指向了新创建的obj实例
+  return typeof res === 'object' res : obj
+}
+```
+
+#### 在成员方法中的this指针
+- this指针指向方法的调用者
+
+### this指针相关注意点
