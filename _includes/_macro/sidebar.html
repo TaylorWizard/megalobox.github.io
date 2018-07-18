@@ -34,13 +34,17 @@
                src="{% assign default_avatar = site.images | append: '/avatar.gif' %}{{ site.avatar | default: default_avatar | relative_url }}"
                alt="{{ site.author }}" />
           <p class="site-author-name" itemprop="name">{{ site.author-gu }}</p>
-          <p class="site-author-name" itemprop="name">{{ site.author-xiao }}</p>
-           {% if site.seo %}
+            {% if site.seo %}
               <p class="site-description motion-element" itemprop="description">{{ site.signature }}</p>
-           {% else %}
+            {% else %}
               <p class="site-description motion-element" itemprop="description">{{ site.description-gu }}</p>
+            {% endif %}
+          <p class="site-author-name" itemprop="name">{{ site.author-xiao }}</p>
+            {% if site.seo %}
+              <p class="site-description motion-element" itemprop="description">{{ site.signature }}</p>
+            {% else %}
               <p class="site-description motion-element" itemprop="description">{{ site.description-xiao }}</p>
-          {% endif %}
+            {% endif %}
         </div>
         <nav class="site-state motion-element">
 
