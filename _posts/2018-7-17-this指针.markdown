@@ -53,6 +53,7 @@ var p = Person('揽子')
 #### 不正确的函数提取方式
 - 如果在非严格模式下把一个方法作为函数来调用，那么this将指向全局对象并创建全局变量。
 - 在严格模式下this为undefined，会得到一个警告。
+
 ```javascript
 var obj = {
   name: '揽子',
@@ -72,6 +73,7 @@ Test2(obj.print) // undefined
 
 #### 在方法中调用函数
 - 在一个方法中使用函数,外接的this会被隐藏
+
 ```javascript
 var obj = {
   name: '揽子',
