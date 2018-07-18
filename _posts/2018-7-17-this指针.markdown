@@ -6,7 +6,7 @@ categories: front-end-development
 tags: front-end-material
 ---
 
-this指针相关
+this指针相关问题
 
 ### 函数中的this指针
 #### 普通函数中的this指针
