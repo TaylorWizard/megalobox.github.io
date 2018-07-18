@@ -57,6 +57,7 @@ tags: front-end-material
     - currentIndex：数组的索引
     - array：当前遍历的整个数组
     - initial：累加器的初始值
+  
   ```javascript
     const arr = [0, 1, 2, 3, 4]
     const res = arr.reduce((accumulator, currentValue, currentIndex, array) => {

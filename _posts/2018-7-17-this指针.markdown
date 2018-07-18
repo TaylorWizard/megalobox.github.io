@@ -60,15 +60,12 @@ var obj = {
     console.log(this.name)
   }
 }
-
 function Test1() {
   obj.print()
 }
-
 function Test2(fn) {
   fn() // 这里的调用者是全局对象,所以print中的this指针也是指向的全局对象
 }
-
 Test1() // 揽子
 Test2(obj.print) // undefined
 ```
