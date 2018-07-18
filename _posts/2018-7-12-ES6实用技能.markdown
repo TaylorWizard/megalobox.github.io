@@ -11,15 +11,15 @@ tags: front-end-material
 ### 扩展运算符
 #### 数组
   - 数组赋值
-    ```
+    ```javascript
     const [a, b, ...rest] = [1, 2, 3, 4] // a: 1, b: 2, rest: [3, 4]
     ```
   - 数组拷贝
-    ```
+    ```javascript
     const arr = [...oldArr]
     ```
   - 数组拼接
-    ```
+    ```javascript
     const one = ['a', 'b', 'c']
     const two = ['e', 'f', 'g']
     const result = [...one, ...two, 'lan'] // result: ['a', 'b', 'c', 'e', 'f', 'g', 'lan']
@@ -27,7 +27,7 @@ tags: front-end-material
 
 #### 对象
   - 对象赋值
-    ```
+    ```javascript
     const { e, f, ...others } = {
       e: 1,
       f: 2,
@@ -36,13 +36,13 @@ tags: front-end-material
     } // e: 1, f: 2, others: { g: 2, h: 4}
     ```
   - 对象拷贝（注：此方法不能够拷贝对象中的对象）
-    ```
+    ```javascript
     const obj = {...oldObj}
     ```
     
 #### 替代函数中的arguments
   - 替代函数中的arguments
-  ```
+  ```javascript
     function getArguments(...args) {
       return args
     }
@@ -57,7 +57,7 @@ tags: front-end-material
     - currentIndex：数组的索引
     - array：当前遍历的整个数组
     - initial：累加器的初始值
-  ```
+  ```javascript
     const arr = [0, 1, 2, 3, 4]
     const res = arr.reduce((accumulator, currentValue, currentIndex, array) => {
       return accumulator + currentValue
