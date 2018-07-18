@@ -30,8 +30,7 @@ function test() {
 function New() { // 模拟new
   var obj = {};
   obj.__proto__ = Person.prototype;
-  var res = Person.apply(obj, arguments); // 这一步，将Person构造函数的this
-                                            指针指向了新创建的obj实例
+  var res = Person.apply(obj, arguments); // 这一步，将Person构造函数的this指针指向了新创建的obj实例
   return typeof res === 'object' res : obj
 }
 ```
