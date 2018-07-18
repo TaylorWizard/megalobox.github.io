@@ -72,7 +72,7 @@ Test2(obj.print) // undefined
 ```
 
 #### 在方法中调用函数
-- 在一个方法中使用函数,外接的this会被隐藏
+- 在一个方法中使用函数，外界的this会被隐藏
 
 ```javascript
 var obj = {
