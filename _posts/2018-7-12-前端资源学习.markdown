@@ -31,9 +31,16 @@ tags: front-end-material
 |**[简单、易学、实用的WebWorker教程](https://juejin.im/entry/5a6c364af265da3e2f012f7f)**
 |**[聊聊 webworker](https://juejin.im/entry/591946e0da2f60005df4ce5b)**
 
+
 ## Vue
 
 |url
 :--:|
 |**[Vue2技术栈归纳与精粹](https://blog.csdn.net/sinat_17775997/article/details/78913968#t40)**
 |**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
+
+## 浏览器
+
+|url
+:--:|
+|**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
