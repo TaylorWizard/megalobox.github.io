@@ -1,28 +1,39 @@
 ---
 layout: post
-title:  "前端资源学习"
-date:   2018-07-12 17:31:33 +0800
-categories: js front-end-learning
-tags: front-end front-end-learning
-description: 本文整理了常查阅的前端资料
+title:  "前端学习资料"
+date:   2018-7-12 14:28:32 +0800
+categories: front-end-learning performance
+tags: front-end-material
 ---
+
+### 本文整理了常查阅的前端资料
+
+***
 
 ## 前端性能优化
 
-相关描述|url
--- |:--
-[全新ChromeDevtoolsPerformance使用指南](https://segmentfault.com/a/1190000011516068)| https://segmentfault.com/a/1190000011516068 
-[前端性能优化利器：Chrome Timeline学习及实践](https://blog.csdn.net/code_for_free/article/details/52503047) | https://blog.csdn.net/code_for_free/article/details/52503047
-[csstriggers](https://csstriggers.com/)|https://csstriggers.com/
-[移动端网页性能优化自查表 - 掘金](https://juejin.im/post/5b3c0d26e51d45191556b527?utm_medium=fe&utm_source=weixinqun)|https://juejin.im/post/5b3c0d26e51d45191556b527?utm_medium=fe&utm_source=weixinqun
-[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)|http://stevesouders.com/hpws/rules.php
-[前端性能优化相关](https://github.com/wy-ei/notebook/issues/34#issuecomment-266946140)|https://github.com/wy-ei/notebook/issues/34#issuecomment-266946140
-[彻底弄懂HTTP缓存及原理](https://www.cnblogs.com/chenqf/p/6386163.html)|https://www.cnblogs.com/chenqf/p/6386163.html
+|url
+:--:|
+|**[全新ChromeDevtoolsPerformance使用指南](https://segmentfault.com/a/1190000011516068)**
+|**[前端性能优化利器：Chrome Timeline学习及实践](https://blog.csdn.net/code_for_free/article/details/52503047)**
+|**[csstriggers](https://csstriggers.com/)**
+|**[移动端网页性能优化自查表 - 掘金](https://juejin.im/post/5b3c0d26e51d45191556b527?utm_medium=fe&utm_source=weixinqun)**
+|**[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)**
+|**[前端性能优化相关](https://github.com/wy-ei/notebook/issues/34#issuecomment-266946140)**
+|**[彻底弄懂HTTP缓存及原理](https://www.cnblogs.com/chenqf/p/6386163.html)**
 
 ***
 
 ## webWorker
-相关描述|url
--- |:--
-[简单、易学、实用的WebWorker教程](https://juejin.im/entry/5a6c364af265da3e2f012f7f)|https://juejin.im/entry/5a6c364af265da3e2f012f7f
-[聊聊 webworker](https://juejin.im/entry/591946e0da2f60005df4ce5b)|https://juejin.im/entry/591946e0da2f60005df4ce5b
+
+|url
+:--:|
+|**[简单、易学、实用的WebWorker教程](https://juejin.im/entry/5a6c364af265da3e2f012f7f)**
+|**[聊聊 webworker](https://juejin.im/entry/591946e0da2f60005df4ce5b)**
+
+## Vue
+
+|url
+:--:|
+|**[Vue2技术栈归纳与精粹](https://blog.csdn.net/sinat_17775997/article/details/78913968#t40)**
+|**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
