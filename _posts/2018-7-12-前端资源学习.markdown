@@ -6,6 +6,12 @@ categories: front-end-learning performance
 tags: front-end-material
 ---
 
+<style type="text/css">
+    strong a {
+        color: #0099E0;
+    }
+</style>
+
 ### 本文整理了常查阅的前端资料
 
 ***
@@ -31,13 +37,32 @@ tags: front-end-material
 |**[简单、易学、实用的WebWorker教程](https://juejin.im/entry/5a6c364af265da3e2f012f7f)**
 |**[聊聊 webworker](https://juejin.im/entry/591946e0da2f60005df4ce5b)**
 
+##Javascript
+
+|url
+:--:|
+|**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
+
+
+## React
+
+|url
+:--:|
+|**[图解 React(英文版)](https://learnreact.design/2017/06/08/what-is-react/)**
+|**[图解 React Native - 掘金](https://juejin.im/post/5b55cff3e51d453509561214?utm_medium=fe&utm_source=weixinqun&from=timeline)**
 
 ## Vue
 
 |url
 :--:|
 |**[Vue2技术栈归纳与精粹](https://blog.csdn.net/sinat_17775997/article/details/78913968#t40)**
-|**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
+|**[Vue源码阅读前必须知道javascript的基础内容](https://juejin.im/entry/5b4ad62b51882519861c038c)**
+
+## RoadMap
+
+|url
+:--:|
+|**[Developer RoadMap](https://css-tricks.com/developer-roadmaps/)**
 
 ## 浏览器
 
