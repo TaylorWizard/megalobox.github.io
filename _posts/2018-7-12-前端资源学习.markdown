@@ -43,12 +43,16 @@ tags: front-end-material
 |url
 :--:|
 |**[flex布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)**
+|**[css中重要的BFC](https://juejin.im/post/5b51ee276fb9a04f86062cea?utm_medium=fe&utm_source=weixinqun)**
+|**[css trigger](https://csstriggers.com/)**
+|**[css性能优化的8个技巧](https://juejin.im/post/5b6133a351882519d346853f)**
 
 ## Javascript
 
 |url
 :--:|
 |**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
+|**[JS里可以提升幸福的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c?utm_medium=fe&utm_source=weixinqun)**
 
 
 ## React
@@ -79,6 +83,8 @@ tags: front-end-material
 :--:|
 |**[FE-Interview](https://github.com/huruji/FE-Interview)**
 |**[30 seconds of interviews](https://github.com/fejes713/30-seconds-of-interviews)**
+|**[面试图谱:前端基础技术知识讲解](https://juejin.im/post/5b5567b25188256256696ee0?utm_medium=fe&utm_source=weixinqun)**
+
 
 ## RoadMap
 
