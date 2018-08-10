@@ -38,6 +38,11 @@ tags: front-end-material
 |**[聊聊 webworker](https://juejin.im/entry/591946e0da2f60005df4ce5b)**
 
 
+## 日常操作
+|url
+:--:|
+|**[Mac下的tree命令输出目录树层结构](https://www.jianshu.com/p/9411d60950bf)**
+
 ## css
 
 |url
