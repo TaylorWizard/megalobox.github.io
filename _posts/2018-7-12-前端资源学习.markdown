@@ -39,6 +39,7 @@ tags: front-end-material
 
 
 ## 日常操作
+
 |url
 :--:|
 |**[Mac下的tree命令输出目录树层结构](https://www.jianshu.com/p/9411d60950bf)**
@@ -58,7 +59,7 @@ tags: front-end-material
 :--:|
 |**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
 |**[JS里可以提升幸福的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c?utm_medium=fe&utm_source=weixinqun)**
-
+|**[javascript小数浮点坑](https://blog.csdn.net/wGL3k77y9fR1k61T1aS/article/details/78256330)**
 
 ## React
 
