@@ -61,6 +61,7 @@ tags: front-end-material
 |**[30分钟，让你彻底明白Promise原理](https://segmentfault.com/a/1190000009478377)**
 |**[JS里可以提升幸福的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c?utm_medium=fe&utm_source=weixinqun)**
 |**[javascript小数浮点坑](https://blog.csdn.net/wGL3k77y9fR1k61T1aS/article/details/78256330)**
+|**[ES7 and ES8](https://www.jianshu.com/p/a138a525c287)**
 
 ## React
 

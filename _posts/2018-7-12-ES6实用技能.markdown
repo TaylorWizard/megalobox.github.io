@@ -65,5 +65,23 @@ tags: front-end-material
     }, initial) // res: 20
   ```
     
+### 解构(Deconstruction)
+  - 交换数值
+  ```javascript
+    const number1 = 1;
+    const number2 = 2;
+    [number1, number2] = [number2, number1];
+  ```
 
+  - 删除对象不必要属性
+  - 下面的代码里，我们希望删除_internal和tooBig参数。我们可以把它们赋值给internal和tooBig变量，然后在cleanObject中存储剩下的属性以备后用。
+  ```javascript
+    let {_internal, tooBig, ...cleanObject} = {el1: '1', _internal:"secret", tooBig:{}, el2: '2', el3: '3'};
+    console.log(cleanObject);  // {el1: '1', el2: '2', el3: '3'}
+  ```
 
+  - 数组的对象解构
+  ```javascript
+    const csvFileLine = '1997, John Doe, US, xxxx@qq.com, ShangHai';
+    const {2: country, 4: state} = csvFileLine.split(',');
+  ```
