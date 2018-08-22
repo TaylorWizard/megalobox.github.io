@@ -27,6 +27,7 @@ tags: front-end-material
 |**[14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)**
 |**[前端性能优化相关](https://github.com/wy-ei/notebook/issues/34#issuecomment-266946140)**
 |**[彻底弄懂HTTP缓存及原理](https://www.cnblogs.com/chenqf/p/6386163.html)**
+|**[代码快不快,跑个分就知道](https://mp.weixin.qq.com/s/-uB2cC9Anroul4y0NI3QxA)**
 
 ***
 
