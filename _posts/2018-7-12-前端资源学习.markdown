@@ -54,6 +54,7 @@ tags: front-end-material
 |**[css中重要的BFC](https://juejin.im/post/5b51ee276fb9a04f86062cea?utm_medium=fe&utm_source=weixinqun)**
 |**[css trigger](https://csstriggers.com/)**
 |**[css性能优化的8个技巧](https://juejin.im/post/5b6133a351882519d346853f)**
+|**[布局的下一次革新](https://juejin.im/post/5b85586ce51d4538c77a9cc1)**
 
 ## Javascript
 
@@ -91,7 +92,7 @@ tags: front-end-material
 :--:|
 |**[HTML5学习--SVG全攻略(basis)](https://www.jianshu.com/p/2ea0ec6800d7)**
 |**[HTML5学习--SVG全攻略(advance)](https://www.jianshu.com/p/ae87e188b44b)**
-
+|**[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.im/book/5a0ab8e2f265da43111fbab2/section/5a0ab8e26fb9a0451170a622)(<span style="color: red; font-weight: bold">付费内容,需要掘金账号</span>)**
 
 ## 面试相关
 
@@ -100,7 +101,7 @@ tags: front-end-material
 |**[FE-Interview](https://github.com/huruji/FE-Interview)**
 |**[30 seconds of interviews](https://github.com/fejes713/30-seconds-of-interviews)**
 |**[面试图谱:前端基础技术知识讲解](https://juejin.im/post/5b5567b25188256256696ee0?utm_medium=fe&utm_source=weixinqun)**
-
+|**[InterviewMap](https://yuchengkai.cn/docs/zh/frontend/)**
 
 ## RoadMap
 
@@ -113,3 +114,10 @@ tags: front-end-material
 |url
 :--:|
 |**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
+
+##工具
+|url
+:--:|
+|**[Chrome Dev tools Dark Theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme)**
+|**[SwitchHosts](https://oldj.github.io/SwitchHosts/)**
+|**[react-markdown](https://github.com/rexxars/react-markdown)**
