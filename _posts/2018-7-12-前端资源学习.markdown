@@ -65,12 +65,6 @@ tags: front-end-material
 |**[javascript小数浮点坑](https://blog.csdn.net/wGL3k77y9fR1k61T1aS/article/details/78256330)**
 |**[ES7 and ES8](https://www.jianshu.com/p/a138a525c287)**
 
-## React
-
-|url
-:--:|
-|**[图解 React(英文版)](https://learnreact.design/2017/06/08/what-is-react/)**
-|**[图解 React Native - 掘金](https://juejin.im/post/5b55cff3e51d453509561214?utm_medium=fe&utm_source=weixinqun&from=timeline)**
 
 ## Vue
 
@@ -86,11 +80,16 @@ tags: front-end-material
 :--:|
 |**[React Router 4.x 使用和源码分析](https://www.jianshu.com/p/27ee7df4ccc1)**
 |**[React Router 4.x的踩过的坑](https://juejin.im/entry/5b50518bf265da0f6436c34a)**
+|**[图解 React(英文版)](https://learnreact.design/2017/06/08/what-is-react/)**
+|**[图解 React Native - 掘金](https://juejin.im/post/5b55cff3e51d453509561214?utm_medium=fe&utm_source=weixinqun&from=timeline)**
+
+
 
 ## SVG、Canvas、WebGL
 
 |url
 :--:|
+|**[canvas实现粒子线条炫酷特效](https://blog.csdn.net/zt_pursue/article/details/79111923)**
 |**[HTML5学习--SVG全攻略(basis)](https://www.jianshu.com/p/2ea0ec6800d7)**
 |**[HTML5学习--SVG全攻略(advance)](https://www.jianshu.com/p/ae87e188b44b)**
 |**[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.im/book/5a0ab8e2f265da43111fbab2/section/5a0ab8e26fb9a0451170a622)(<span style="color: red; font-weight: bold">付费内容,需要掘金账号</span>)**
@@ -116,7 +115,7 @@ tags: front-end-material
 :--:|
 |**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
 
-##工具
+## 工具
 
 |url
 :--:|
