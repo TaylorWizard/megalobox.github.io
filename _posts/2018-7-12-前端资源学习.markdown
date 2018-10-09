@@ -85,7 +85,7 @@ tags: front-end-material
 
 
 
-## SVG、Canvas、WebGL
+## SVG、Canvas、WebGL、CSS3-Animation
 
 |url
 :--:|
@@ -93,6 +93,7 @@ tags: front-end-material
 |**[HTML5学习--SVG全攻略(basis)](https://www.jianshu.com/p/2ea0ec6800d7)**
 |**[HTML5学习--SVG全攻略(advance)](https://www.jianshu.com/p/ae87e188b44b)**
 |**[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.im/book/5a0ab8e2f265da43111fbab2/section/5a0ab8e26fb9a0451170a622)(<span style="color: red; font-weight: bold">付费内容,需要掘金账号</span>)**
+|**[实现前端弹簧动效](https://juejin.im/post/5bbb67456fb9a05d2c43c66a)**
 
 ## 面试相关
 
@@ -114,6 +115,8 @@ tags: front-end-material
 |url
 :--:|
 |**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
+|**[HTML各种常见的位置距离](https://blog.csdn.net/nideshijian/article/details/52453074)**
+|**[浏览器内核渲染: 重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe?utm_medium=fe&utm_source=weixinqun)**
 
 ## 工具
 
