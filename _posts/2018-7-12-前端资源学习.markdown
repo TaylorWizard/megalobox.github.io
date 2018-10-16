@@ -94,6 +94,7 @@ tags: front-end-material
 |**[HTML5学习--SVG全攻略(advance)](https://www.jianshu.com/p/ae87e188b44b)**
 |**[如何使用 Canvas 制作出炫酷的网页背景特效](https://juejin.im/book/5a0ab8e2f265da43111fbab2/section/5a0ab8e26fb9a0451170a622)(<span style="color: red; font-weight: bold">付费内容,需要掘金账号</span>)**
 |**[实现前端弹簧动效](https://juejin.im/post/5bbb67456fb9a05d2c43c66a)**
+|**[Canvas API 中文文档](https://www.canvasapi.cn/)**
 
 ## 面试相关
 
