@@ -104,6 +104,7 @@ tags: front-end-material
 |**[30 seconds of interviews](https://github.com/fejes713/30-seconds-of-interviews)**
 |**[面试图谱:前端基础技术知识讲解](https://juejin.im/post/5b5567b25188256256696ee0?utm_medium=fe&utm_source=weixinqun)**
 |**[InterviewMap](https://yuchengkai.cn/docs/zh/frontend/)**
+|**[intererviewMap在线阅读](https://yuchengkai.cn/docs/zh/)**
 
 ## RoadMap
 
