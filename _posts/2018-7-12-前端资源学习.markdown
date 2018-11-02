@@ -64,6 +64,7 @@ tags: front-end-material
 |**[JS里可以提升幸福的小技巧](https://juejin.im/post/5b51e5d3f265da0f4861143c?utm_medium=fe&utm_source=weixinqun)**
 |**[javascript小数浮点坑](https://blog.csdn.net/wGL3k77y9fR1k61T1aS/article/details/78256330)**
 |**[ES7 and ES8](https://www.jianshu.com/p/a138a525c287)**
+|**[Regular Expressions](https://juejin.im/entry/5bda4f83e51d456e8a21b5a5)**
 
 
 ## Vue
