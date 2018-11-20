@@ -120,6 +120,7 @@ tags: front-end-material
 |**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
 |**[HTML各种常见的位置距离](https://blog.csdn.net/nideshijian/article/details/52453074)**
 |**[浏览器内核渲染: 重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe?utm_medium=fe&utm_source=weixinqun)**
+|**[浏览器渲染过程与性能优化](https://www.jianshu.com/p/0a3d329a7427?from=groupmessage)**
 
 ## 移动端
 
