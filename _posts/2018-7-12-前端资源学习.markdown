@@ -83,7 +83,7 @@ tags: front-end-material
 |**[React Router 4.x的踩过的坑](https://juejin.im/entry/5b50518bf265da0f6436c34a)**
 |**[图解 React(英文版)](https://learnreact.design/2017/06/08/what-is-react/)**
 |**[图解 React Native - 掘金](https://juejin.im/post/5b55cff3e51d453509561214?utm_medium=fe&utm_source=weixinqun&from=timeline)**
-
+|**[浅谈React diff算法与key](https://www.jianshu.com/p/fa4ca1fed4cf)**
 
 
 ## SVG、Canvas、WebGL、CSS3-Animation
@@ -118,6 +118,7 @@ tags: front-end-material
 |url
 :--:|
 |**[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7)**
+|**[从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/5aa5cb846fb9a028e25d2fb1)**
 |**[HTML各种常见的位置距离](https://blog.csdn.net/nideshijian/article/details/52453074)**
 |**[浏览器内核渲染: 重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe?utm_medium=fe&utm_source=weixinqun)**
 |**[浏览器渲染过程与性能优化](https://www.jianshu.com/p/0a3d329a7427?from=groupmessage)**
